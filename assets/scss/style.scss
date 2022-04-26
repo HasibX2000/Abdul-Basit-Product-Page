@@ -1,0 +1,195 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.bg-darken {
+  background: #1A1A1A;
+}
+
+.card-header {
+  .row {
+    h1 {
+      font-size: 20px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    .custom-select {
+      color: #fff;
+      background: #1A1A1A !important;
+      border: none !important;
+      border-bottom: 1px solid #fff !important;
+      border-radius: 0 !important;
+      font-size: 16px !important;
+    }
+
+    .www {
+      width: 145px;
+    }
+
+    .ex-icon {
+      font-size: 10px;
+      line-height: 0 !important;
+      margin-top: 10px;
+    }
+
+    .custom-select:focus {
+      outline: 0;
+      box-shadow: 0 !important;
+    }
+
+    .nps {
+      color: #000;
+      width: 23px;
+      height: 25px;
+      background: #fff;
+      padding: 5px;
+      border-radius: 50%;
+      margin-left: 26px;
+      margin-right: 10px;
+    }
+  }
+}
+
+.top {
+  .card-body {
+    .table {
+      border: none !important;
+    }
+  }
+}
+
+img {
+  width: 55px;
+}
+
+.table td,
+.table th {
+  border: none !important;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.secondary-head {
+  background: #272727;
+}
+
+.card {
+  .card-body {
+    background: #D6D6D6;
+
+    .table-responsive {
+      border-radius: 10px;
+      box-shadow: 0 0 9px #4c4c4c;
+    }
+
+    .font-ss {
+      margin-bottom: 400px;
+      border-radius: 10px;
+    }
+
+    p {
+      color: #8c8c8c;
+      font-style: italic;
+      margin: 0 !important;
+    }
+
+    .spp {
+      color: #000000;
+      font-weight: bold;
+      margin: 8px 0 !important;
+      font-size: 13px;
+      font-style: inherit;
+    }
+
+    .btn-r {
+      background: #000;
+      border-radius: 24px;
+      padding: 5px 20px;
+      margin-top: 29px;
+    }
+  }
+}
+
+.table {
+  margin: 0 !important;
+}
+
+.card {
+  border: none !important;
+}
+
+.modal {
+  h5 {
+    font-size: 16px;
+  }
+
+  .modal-body {
+    background: #272727;
+
+    .smss {
+      font-size: 15px;
+
+      .mz-s {
+        margin-right: 3px !important;
+      }
+    }
+  }
+
+  .modal-header {
+    border: none !important;
+  }
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: red !important;
+  font-weight: bold;
+}
+
+.fonter {
+  th {
+    font-size: 13px;
+  }
+}
+
+.rx {
+  h5 {
+    font-size: 14px;
+  }
+}
+
+.trans {
+  .card {
+    background: #D6D6D6;
+
+    .card-body {
+      background: #D6D6D6;
+      margin-bottom: 100px;
+
+      .table-responsive {
+        background: #fff !important;
+      }
+    }
+  }
+}
+
+.col1 {
+  display: inline-block;
+  padding-right: 0 !important;
+}
+@media (max-width: 768px) {
+  .rx {
+    padding-left: 17px !important;
+    margin-top: 23px;
+  }
+}
